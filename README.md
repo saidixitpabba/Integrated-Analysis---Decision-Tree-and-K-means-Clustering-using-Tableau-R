@@ -1,0 +1,2 @@
+# Integrated-Analysis---Decision-Tree-and-K-means-Clustering-using-Tableau-R
+Performed data retrieval, Data pre-processing, Decision Tree using R on Titanic Data, Conducted K-mean clustering with Tableau-R integration by invoking Rserve() to analyze the optimal cluster with age, sex, and origination that has the highest chance of survivability in the accident, observed female from Cherbourg with first-class ticket had 97% chance of being alive
